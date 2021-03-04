@@ -1,15 +1,16 @@
-id: opecha:P000355
+id: P000355
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG09688
   title: ཇོ་བོ་རྗེ་དཔལ་ལྡན་ཨ་ཏི་ཤའི་རྣམ་ཐར་བཀའ་གདམས་ཕ་ཆོས་
-  volume:
+  author: ''
+  volumes:
     359aa3676de941878233edcdf21fda73:
       image_group_id: I00KG09718
       title: Volume 1 of jo bo rje dpal ldan a ti sha'i rnam thar bka' gdams pha chos
       volume_number: 1
       total_pages: 910
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཇོ་བོ་རྗེ་དཔལ་ལྡན་ཨ་ཏི་ཤའི་རྣམ་ཐར་བཀའ་གདམས་ཕ་ཆོས་
   author: ''
